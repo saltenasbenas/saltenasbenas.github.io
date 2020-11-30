@@ -36,6 +36,7 @@ header nav .rightSide li {
     color: #1F1534;
     opacity: 0.5;
     cursor: pointer;
+    cursor: pointer;
 }
 header nav .rightSide li.active {
     font-weight: 700;
